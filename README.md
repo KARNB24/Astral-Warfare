@@ -22,7 +22,7 @@ Welcome to **Astral Warfare: Quantum Reckoning**, an action-packed game develope
 
 ## Get Started
 
-To experience Toon Tanks, Clone this repo and run it in your own version of Unreal Engine 5.3.2
+To experience Astral Warfare: Quantum Reckoning, Clone this repo and run it in your own version of Unreal Engine 5.3.2
 
 ## Credits
 
